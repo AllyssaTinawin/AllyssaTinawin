@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allyssa Tinawin</h1>
 <h3 align="center">20 | 2nd yr college student | student leader in WU-P CECT Department | Online seller | aspiring graphic/ UI/UX designer |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allyssatinawin&label=Profile%20views&color=0e75b6&style=flat" alt="allyssatinawin" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=allyssatinawin&label=Profile%20views&color=0e75b6&style=flat" alt="allyssatinawin](https://avatars.githubusercontent.com/u/144330629?v=4)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allyssatinawin" alt="allyssatinawin" /></a> </p>
 
