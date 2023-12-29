@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allyssa Tinawin</h1>
 <h3 align="center">20 | 2nd yr college student | student leader in WU-P CECT Department | Online seller | aspiring graphic/ UI/UX designer |</h3>
 
-<p align="left"> <img src="274509149_2102916316541661_9026974011506740153_n.jpg" /> </p>
+<p align="left"> <img src="[274509149_2102916316541661_9026974011506740153_n.jpg](https://www.facebook.com/photo/?fbid=2588517027981585&set=a.103771416456171)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allyssatinawin" alt="allyssatinawin" /></a> </p>
 
