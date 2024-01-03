@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allyssatinawin&" alt="allyssatinawin" /></p>
 
-<p align="left"> <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img src="(https://policyviz.com/wp-content/uploads/2020/05/2000px-Figma-logo.svg-1366x2048.png)" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="[https://figma.com/](https://www.figma.com/)" target="_blank" rel="noreferrer"> <img src="(https://policyviz.com/wp-content/uploads/2020/05/2000px-Figma-logo.svg-1366x2048.png)" alt="unity" width="40" height="40"/> </a> </p>
